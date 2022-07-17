@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
 
 ### 🛠 &nbsp;Desenvolvimento Frontend:
 
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 </p>
 
-
+---
 
 ### 🛠 &nbsp;Desenvolvimento Backend:
 
@@ -45,12 +46,15 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;  
 </p>
 
+---
+
 ### 🛠 &nbsp;Design Gráfico:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 
+---
 
 ### 🛠 &nbsp;Ferramentas e softwares:
 
