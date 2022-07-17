@@ -47,8 +47,8 @@
 <p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/CPanel_logo.svg"  title="CPanel" alt="CPanel" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"  title="Cloudflare" alt="Cloudflare" width="40" height="40"/>&nbsp; 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/DotBr_domain_logo.svg"  title="Registro.BR" alt="Registro.BR" width="50" height="70"/>&nbsp;
-<img src="https://seeklogo.com/images/H/hostgator-logo-61E0D46EF2-seeklogo.com.png"  title="Hostgator" alt="Hostgator" width="70" height="40"/>&nbsp; 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/DotBr_domain_logo.svg"  title="Registro.BR" alt="Registro.BR" width="100" height="40"/>&nbsp;
+<img src="https://seeklogo.com/images/H/hostgator-logo-61E0D46EF2-seeklogo.com.png"  title="Hostgator" alt="Hostgator" width="100" height="30"/>&nbsp; 
 </p>
 
 ---
