@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo 👋
 
-<a href="https://www.linkedin.com/in/carolina-aparecida-sens/"><img src="https://commons.wikimedia.org/wiki/File:LinkedIn_Logo.svg" alt="LinkedIn Badge"></a>
-</p>c
+<a href="https://www.linkedin.com/in/carolina-aparecida-sens/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn Badge"></a>
+</p>
 
 
 ### 🛠 &nbsp;Desenvolvimento Frontend:
