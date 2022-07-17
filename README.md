@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo 👋
 <br/>
 Tenho paixão por desenvolvimento de software e estou ingressando nesta área.
-<br/>
+
 - 🔭 Estou me dedicando integralmente a aprender diversas tecnologias e linguagens de programação
 - 😄 No meu tempo livre gosto de ler, ver séries e filmes, viajar!
 - 📫 Entre em contato comigo: 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
+
 <br/>
 ---
 
