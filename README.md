@@ -5,8 +5,8 @@ Tenho paixão por desenvolvimento de software e estou ingressando nesta área.
 - 🔭 Estou me dedicando integralmente a aprender diversas tecnologias e linguagens de programação
 - 😄 No meu tempo livre gosto de ler, ver séries e filmes, viajar!
 - 📫 Entre em contato comigo: 
-- <a href="https://www.linkedin.com/in/carolina-aparecida-sens/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="20" ></a>&nbsp; 
-- <a href="https://www.carolinasens.com.br/"><img src="https://homolog.carolinasens.com.br/wp-content/uploads/2022/06/logofinal.png" alt="SitePessoal" height="20" ></a> 
+<a href="https://www.linkedin.com/in/carolina-aparecida-sens/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="20" ></a>&nbsp; 
+<a href="https://www.carolinasens.com.br/"><img src="https://homolog.carolinasens.com.br/wp-content/uploads/2022/06/logofinal.png" alt="SitePessoal" height="20" ></a> 
 
 <!--
 **carolsens/carolsens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
