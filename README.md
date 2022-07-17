@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 -->
 
 
-</p>
-
-
 ### 🛠 &nbsp;Desenvolvimento Frontend:
 
 <p>
