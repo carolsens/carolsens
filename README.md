@@ -7,8 +7,8 @@ Tenho paixão por desenvolvimento de software e estou ingressando nesta área.
 - 😄 No meu tempo livre gosto de ler, ver séries e filmes, viajar!
 - 📫 Entre em contato comigo:
 <p>
-<a href="https://www.linkedin.com/in/carolina-aparecida-sens/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="20" ></a>&nbsp; 
-<a href="https://www.carolinasens.com.br/"><img src="https://homolog.carolinasens.com.br/wp-content/uploads/2022/06/logofinal.png" alt="SitePessoal" height="20" ></a> &nbsp; 
+<a href="https://www.linkedin.com/in/carolina-aparecida-sens/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="20" ></a>&nbsp; 
+<a href="https://www.carolinasens.com.br/" target="_blank"><img src="https://homolog.carolinasens.com.br/wp-content/uploads/2022/06/logofinal.png" alt="SitePessoal" height="20" ></a> &nbsp; 
 </p>
 
 
