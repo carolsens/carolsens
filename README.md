@@ -61,7 +61,7 @@ Tenho paixão por desenvolvimento de software e estou ingressando nesta área.
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/CPanel_logo.svg"  title="CPanel" alt="CPanel" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"  title="Cloudflare" alt="Cloudflare" width="40" height="40"/>&nbsp; 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/DotBr_domain_logo.svg"  title="Registro.BR" alt="Registro.BR" width="100" height="40"/>&nbsp;
-<img src="https://seeklogo.com/images/H/hostgator-logo-61E0D46EF2-seeklogo.com.png"  title="Hostgator" alt="Hostgator" width="100" height="20"/>&nbsp; 
+<img src="https://seeklogo.com/images/H/hostgator-logo-61E0D46EF2-seeklogo.com.png"  title="Hostgator" alt="Hostgator" width="100" height="20" padding-bottom:"10"/>&nbsp; 
 </p>
 
 <!--
