@@ -4,10 +4,11 @@ Tenho paixão por desenvolvimento de software e estou ingressando nesta área.
 
 - 🔭 Estou me dedicando integralmente a aprender diversas tecnologias e linguagens de programação
 - 😄 No meu tempo livre gosto de ler, ver séries e filmes, viajar!
-- 📫 Entre em contato comigo: 
+- 📫 Entre em contato comigo:
+<p>
 <a href="https://www.linkedin.com/in/carolina-aparecida-sens/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" height="20" ></a>&nbsp; 
 <a href="https://www.carolinasens.com.br/"><img src="https://homolog.carolinasens.com.br/wp-content/uploads/2022/06/logofinal.png" alt="SitePessoal" height="20" ></a> 
-
+</p>
 <!--
 **carolsens/carolsens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 -->
 
 <br/>
----
+
 
 ### 🛠 &nbsp;Desenvolvimento Frontend:
 
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 </p>
 <br/>
----
+
 
 ### 🛠 &nbsp;Desenvolvimento Backend:
 
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;  
 </p>
 <br/>
----
+
 
 ### 🛠 &nbsp;Design Gráfico:
 
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"  title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </p>
 <br/>
----
+
 
 ### 🛠 &nbsp;Ferramentas e softwares:
 
