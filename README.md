@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo 👋
 <br/>
 Tenho paixão por desenvolvimento de software e estou ingressando nesta área.
-<br/>
+
 - 🔭 Estou me dedicando integralmente a aprender diversas tecnologias e linguagens de programação
 - ⚡ Nos últimos 3 meses aprendi muito e fiz diversos projetos para aumentar meu conhecimento na área de programação.
 - 😄 No meu tempo livre gosto de ler, ver séries e filmes, viajar!
