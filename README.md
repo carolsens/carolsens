@@ -14,7 +14,6 @@ Tenho paixão por desenvolvimento de software e estou ingressando nesta área.
 
 <br/>
 
-
 ### 🛠 &nbsp;Desenvolvimento Frontend:
 
 <p>
